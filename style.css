@@ -1,0 +1,18 @@
+.hero-header {
+    background-color: #1F2937;
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+}
+
+.header-logo,
+.menu {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu {
+    justify-content: space-between;
+}
