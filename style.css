@@ -1,0 +1,63 @@
+body {
+    background-color: #1F2937;
+}
+
+/* color sharing */
+.hero-main-text,
+.header-logo-text {
+    color: #F9FAF8;
+}
+
+.information-header-text,
+.quote-text {
+    color: #1F2937;
+}
+
+/* Header section */
+.hero-main-text {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.hero-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-logo-text {
+    font-size: 24px;
+}
+
+/* Random information section */
+.information-header-text {
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+/* Quote section */
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+/* Call to Action */
+.cta-section {
+    display: flex;
+    justify-content: center;
+}
+
+/* Footer section */
+.footer-section {
+    display: flex;
+    justify-content: center;
+}
+
+/* Buttons, links, lists, utils */
+button {
+    background-color: #3882F6;
+}
